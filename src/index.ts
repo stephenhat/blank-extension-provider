@@ -31,7 +31,7 @@ window.addEventListener(
         if (data.id) {
             blankProvider.handleResponse(data);
         } else {
-            log.error('Missing id for response.');
+            log.error('Missingx id for response.');
         }
     }
 );
